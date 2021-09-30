@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sibbirhossain&show_icons=true&locale=en" alt="sibbirhossain" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sibbirhossain&show_icons=true&locale=en&layout=compact" alt="sibbirhossain" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sibbirhossain&show_icons=true&locale=en&layout=compact" alt="sibbirhossain" height="195"/>
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibbirhossain&" alt="sibbirhossain" /></p>
