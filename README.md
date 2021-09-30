@@ -19,7 +19,7 @@
 
 <p>
   <img  src="https://github-readme-stats.vercel.app/api?username=sibbirhossain&show_icons=true&locale=en" alt="sibbirhossain" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sibbirhossain&show_icons=true&locale=en&layout=compact" alt="sibbirhossain" height="195" /></p>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sibbirhossain&show_icons=true&locale=en&layout=compact" alt="sibbirhossain" /></p>
 
 
 
