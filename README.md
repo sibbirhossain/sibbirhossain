@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/mdsibbirhossain" target="_blank">Sibbir Hossain</a></h1>
-<h3 align="center">A passionate Full Stack Developer from Dhaka</h3>
+<h3 align="center">A passionate Full Stack Developer from New York</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibbirhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sibbirhossain" /> </p>
 
