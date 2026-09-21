@@ -24,7 +24,7 @@ Fraud is increasingly **organized** (rings that coordinate across accounts, devi
 ---
 
 ## 🔬 Research & engineering at a glance
-- **Three published research papers** on AI for fraud detection, credit risk, and healthcare payment integrity
+- **Eight published research papers** on AI for fraud detection, credit risk, and healthcare payment integrity
 - **Editorial board member** and **journal peer reviewer**
 - **Open-source research software** with archived, citable releases (DOI), CI-tested code, and reproducible experiments
 - **Industry practice:** Software Engineer building Medicaid billing automation, EVV compliance tracking, and multi-payer authorization workflows at a New York home-care agency
