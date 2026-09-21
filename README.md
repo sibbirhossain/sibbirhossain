@@ -61,4 +61,7 @@ Editorial board member · Journal peer reviewer
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### 📫 Contact
-Open to research collaborations on fraud detection, explainable AI, and payment integrity. Reach me via [ORCID](https://orcid.org/0009-0002-0795-4512) or GitHub issues.
+Open to research collaborations on fraud detection, explainable AI, and payment integrity.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0795--4512-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0795-4512)
